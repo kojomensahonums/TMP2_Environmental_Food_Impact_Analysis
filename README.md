@@ -1,15 +1,12 @@
-# TMP2_Environmental_Food_Impact_Analysis
-
-🌍 Environmental Impacts of Global Food Products
 📌 Overview
-
+---
 This project analyzes the environmental footprint of 43 common food products across multiple sustainability dimensions.
 Using both exploratory data analysis (Python + Jupyter Notebook) and an interactive Power BI dashboard, the study highlights which food groups contribute most to greenhouse gas emissions, water use, land use, and nutrient pollution.
 
 The dataset provides a global overview (not country-specific), making it a useful reference point for sustainability research, food policy, and consumer awareness.
 
 📂 Dataset
-
+---
 The dataset includes 23 metrics measuring environmental impact:
 
 Greenhouse Gas (GHG) Emissions → from land use change, farming, processing, transport, etc.
@@ -24,6 +21,7 @@ Food products are grouped into 10 categories:
 Vegetables, Fruits, Legumes, Sugars, Beverages, Meat, Animal Products, Seafood, Oils, and Carbohydrates.
 
 🔎 Analysis Approach
+---
 1. Exploratory Data Analysis (Python)
 
 Conducted in a Jupyter Notebook. Key visualizations:
@@ -46,8 +44,8 @@ Food group
 
 Metric group
 
-Key features:
-
+🔐 Key features:
+---
 Compare food groups by selected metric.
 
 Explore trade-offs between sustainability metrics.
@@ -55,8 +53,8 @@ Explore trade-offs between sustainability metrics.
 Deep-dive into lifecycle breakdowns for specific products.
 
 📊 Key Insights
-
-Scarcity-weighted water use dominates in many food products, often overshadowing other metrics.
+---
+Scarcity-weighted water use dominates in many food products, its value numbers often overshadowing other metrics.
 
 Meat and animal products contribute disproportionately across GHG and land-use dimensions.
 
